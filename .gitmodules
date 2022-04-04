@@ -1,0 +1,3 @@
+[submodule "Bicubic-interpolation1"]
+	path = Bicubic-interpolation1
+	url = https://github.com/rootpine/Bicubic-interpolation.git
